@@ -1,0 +1,10 @@
+ibm:
+  mq:
+    queueManager:
+    channel:
+    conn-name:
+    user:
+    user-authentication-mQCSP: false
+    use-ibmCipher-mappings: false
+    ssl-cipher-spec:
+---
